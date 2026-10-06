@@ -1,0 +1,39 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env
+*.key
+appsettings.Development.jsonlocal.properties 
+.gradle/ 
+build/ 
+*/build/ 
+.kotlin/ 
+captures/ 
+.externalNativeBuild/ 
+.cxx/ 
